@@ -1,0 +1,53 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Archivos de compilación
+Binaries/
+Build/*
+
+# Archivos temporales
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Archivos de usuario
+*.user
+*.userprefs
+*.tmp
+
+# Rider
+.idea/
+
+# Visual Assist
+*.VC.db
+
+# Logs
+*.log
+
+# Crash reports
+Crashes/
+
+# Cachés
+FileOpenOrder/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Plugins (ignorar sus temporales)
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+Plugins/*/Saved/
+
+# Archivos de compilación de C++
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
