@@ -8,10 +8,10 @@
 | Campo | Descripción |
 | :--- | :--- |
 | **Duración estimada** | 3 a 4 minutos |
-| **Público objetivo** | Usuarios noveles en VR sin conocimiento previo de los mandos ni de la interacción espacial. |
-| **Acciones que enseña** | 1. Observación y orientación con la posibilidad de mirar a tu alrededor.<br>2. Agarre de objetos, coger la antorcha encendida de su soporte.<br>3. Manipulación de elementos y apuntado agarrando el cañón para rotarlo hacia los objetivos).<br>4. Uso de herramientas acercandr la antorcha a la mecha del cañón para disparar. |
+| **Público objetivo** | Usuarios noveles en VR sin conocimiento previo de los mandos ni de la interacción con videojuegos. |
+| **Acciones que enseña** |• Observar el entorno ambientado.<br>Agarrar objetos, coger la antorcha encendida de su soporte e interactuar con ella.<br>• Manipulación de elementos y apuntado agarrando el cañón para rotarlo hacia los objetivos).<br>• Uso de herramientas acercandr la antorcha a la mecha del cañón para disparar. |
 | **Comunicación sin texto** | • **Restricción en el espacio:** El jugador aparece frente a la borda del barco con el cañón y la antorcha a su alcance.<br>• **Affordances visuales:** La antorcha emite luz, humo y chispas que atraen la mirada hacia el primer objeto interactuable; el cañón cuenta con una mecha en la parte trasera.<br>• **Prevención de bloqueos:** Si la antorcha cae al suelo de cubierta, regresa automáticamente a su soporte tras 2 segundos; si cae al agua, reaparece al instante en su posición inicial.<br>• **Ayuda progresiva:** Si tras 25 segundos el usuario no ha completado el primer disparo, se activa una luz sobre la antorcha y la mecha del cañón. |
-| **Feedback inmediato y recompensas** | • **Al encender la mecha:** Se emite un sonido de chisporroteo continuo, activación de partículas en la mecha.<br>• **Al disparar:** Hay una explosión sonora de cañonazo, una vibración háptica y lanzamiento físico de la bala.<br>• **Recompensa final:** El barco se hunde fisicamente bajo el agua. |
+| **Feedback inmediato y recompensas** |• Al encender la mecha se emite un sonido de chisporroteo continuo, activación de partículas en la mecha.<br>• Al disparar hay una explosión sonora de cañonazo, una vibración háptica y lanzamiento físico de la bala.<br>• La recompensa final es que el barco se hunde fisicamente bajo el agua. |
 
 <br>
 
@@ -23,7 +23,7 @@
 | **Desplazarse por el barco** | WASD para moverse | Movimiento con los joysticks de los mandos - *No probado* |
 | **Agarrar la antorcha** | Doble click al botón central del ratón `mouse 3` | Gatillo lateral (**Grip** — `L` / `R`) - *No probado* |
 | **Soltar la antorcha** | Doble click al botón central del ratón `mouse 3` | Gatillo lateral (**Grip** — `L` / `R`) - *No probado* |
-| **Apuntar el cañón** | Doble click al botón central del ratón `mouse 3` para agarrar el cañon | Gatillo lateral (**Grip** — `L` / `R`) - *No probado* |
+| **Apuntar con el cañón** | Doble click al botón central del ratón `mouse 3` para agarrar el cañon | Gatillo lateral (**Grip** — `L` / `R`) - *No probado* |
 | **Encender mecha y disparar** | Acercar la punta encendida de la antorcha a la mecha trasera del cañón | Acercar la punta encendida de la antorcha a la mecha trasera del cañón |
 
 <br>
@@ -37,6 +37,7 @@ Todos los recursos externos empleados proceden de bibliotecas gratuitas y cuenta
 | **Modelo de Cañón**| https://sketchfab.com/3d-models/low-poly-cannon-6099c62ef44e4e67b682971f042a8ee9 |
 | **Pack barcos**| https://sketchfab.com/3d-models/stylized-pirate-island-pack-low-poly-3d-assets-77d8d91e3fb14ef289850bc59d8683d6 |
 | **Antorcha**| https://sketchfab.com/3d-models/low-poly-torches-06fa08b3b2834d26b3deee112eda2919 |
+| **Shader agua**| https://carepasdesign.gumroad.com/l/jspog |
 
 <br>
 
